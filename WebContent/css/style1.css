@@ -1,0 +1,22 @@
+body  {  	
+	margin: 0;  	
+	padding:0px;  	
+	background: #ddd;  
+	}    
+#container  {  	
+    margin: auto;
+    width: 250px ;
+    padding: 10px; 
+	}    
+
+	#tabela  {  	
+	margin: auto;
+    width: 100px ;
+    padding: 90px; 
+	}    
+	
+	#botao  {  	
+	margin: auto;
+    width: 120px ;
+    padding: 90px; 
+	}    

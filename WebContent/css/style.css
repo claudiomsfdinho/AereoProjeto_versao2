@@ -1,0 +1,80 @@
+*{
+	margin: 0 auto; /*centraliza o conteudo da pagina*/
+	font-family: Calibri;
+}
+
+body{
+	background-color: #fff; /*cor de fundo da pagina*/
+	margin:0;
+	padding:0;
+	text-align:center;	
+}
+
+label{
+	display: block; /*Faz com que os campos do formulario sejam exibidos na vertical sem a necessidade do velho <br>*/
+}
+
+
+#tudo{
+padding: 15px; /*definimos tamanho do espaçamento interno*/
+	top: 10%; 
+text-align: center; /*centraliza elementos do form*/
+	
+}
+
+
+/*centraliza a tela de login no meio da tela*/
+#ajustar_tela{
+	background-color: #eee;
+	border:5px solid #000;
+	position: relative;
+	width: 330px; /*largura da div login*/
+	text-align: center; /*centraliza elementos do form*/
+	padding: 105px; /*tamanho da area cinza*/
+	top: 30%; /*centralizamos verticalmente o form na tela*/
+}
+
+
+#elem{
+	
+	
+	
+	
+	width: 440px;
+	padding: 5px; /*definimos tamanho do espaçamento interno*/
+	top: 10%; /*centralizamos verticalmente o form na tela*/
+}
+
+#imging{
+	
+	
+	
+	width: 30px; /*largura da div login*/
+	text-align: center; /*centraliza elementos do form*/
+	padding: 30px; /*definimos tamanho do espaçamento interno*/
+	top: 20%; /*centralizamos verticalmente o form na tela*/
+}
+#imgesp{
+	
+	
+	
+	width: 30px; /*largura da div login*/
+	text-align: center; /*centraliza elementos do form*/
+	padding: 30px; /*definimos tamanho do espaçamento interno*/
+	top: 20%; /*centralizamos verticalmente o form na tela*/
+}
+
+#imgport{
+	
+	
+	width: 30px; /*largura da div login*/
+	text-align: center; /*centraliza elementos do form*/
+	padding: 30px; /*definimos tamanho do espaçamento interno*/
+	top: 2%; /*centralizamos verticalmente o form na tela*/
+}
+/* Bordar arredondadas */
+.bradius{
+	border-radius:6px;
+	-webkit-border-radius: 6px;
+	-moz-border radius: 6px;	
+}
